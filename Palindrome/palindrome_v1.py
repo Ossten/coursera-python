@@ -25,5 +25,4 @@ if  __name__ == '__main__':
     # is_palindrome_v1('noon')
     # is_palindrome_v1('racecar')
     # is_palindrome_v1('dented')
-
     print('Executed in : ',time.time() - start,'s.')
