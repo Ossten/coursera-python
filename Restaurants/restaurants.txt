@@ -1,0 +1,25 @@
+
+
+# dict of {str:int}
+{'Georgie': 87,
+ 'Queen': 82,
+ 'Dumplings': 71,
+ 'Mexican Grill': 85,
+ 'Deep Fried': 52
+}
+
+# dict of {str: list od str}
+{'$': ['Queen', 'Dumplings', 'Deep Fried'],
+ '$$': ['Mexican Grill'],
+ '$$$': ['Georgie'],
+ '$$$$': []
+}
+
+# dict of {str: list of str}
+c:{'Canadian': ['Georgie'],
+ 'Pub Food': ['Georgie', 'Deep Fried'],
+ 'Malaysian': ['Queen'],
+ 'Thai': ['Queen'],
+ 'Chinese': ['Dumplings'],
+ 'Mexican': ['Mexican Grill']
+}
