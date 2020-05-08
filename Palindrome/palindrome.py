@@ -46,6 +46,5 @@ def is_palindrome_v3(s):
 is_palindrome_v3('noon')
 is_palindrome_v3('racecar')
 is_palindrome_v3('dented')
-is_palindrome_v3('ddddddddddddddddddddsdfsdfddddddddddddd')
 
 print(time.time() - start)
