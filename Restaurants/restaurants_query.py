@@ -23,7 +23,8 @@ def read_restaurant(file):
     cuisine_name = []
     data = []
     cn = []
-    d1=d2={}
+    d1={}
+    d2={}
     with open(file, 'r+') as f:                                         # reading the file
         data = f.readlines()
         for i in range(0, len(data)):
